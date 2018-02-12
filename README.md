@@ -3,6 +3,7 @@
 You can translate text from one language to another by using this Discord bot. 
 For a list of names and abbreviations go here: https://cloud.google.com/translate/docs/languages 
 
+![translation](https://user-images.githubusercontent.com/14249336/36082187-10686f90-0f75-11e8-845a-169332443f82.gif)
 
 Here are available commands:
 
