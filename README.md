@@ -5,6 +5,8 @@ For a list of names and abbreviations go here: https://cloud.google.com/translat
 
 
 Here are available commands:
+
+
 ```!translate from to text```
 
 
